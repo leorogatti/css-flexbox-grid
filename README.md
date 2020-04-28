@@ -9,27 +9,27 @@
 ```HTML
  <section class="flex">
     <div>
-      <img src="img/lobo1.jpg" alt="Wolf">
+      <img src="img/lobo1.jpg" alt="Lobo">
       <p>Legenda</p>
     </div>
     <div>
-      <img src="img/lobo2.jpg" alt="Wolf">
+      <img src="img/lobo2.jpg" alt="Lobo">
       <p>Legenda</p>
     </div>
     <div>
-      <img src="img/lobo3.jpg" alt="Wolf">
+      <img src="img/lobo3.jpg" alt="Lobo">
       <p>Legenda</p>
     </div>
     <div>
-      <img src="img/lobo2.jpg" alt="Wolf">
+      <img src="img/lobo2.jpg" alt="Lobo">
       <p>Legenda</p>
     </div>
     <div>
-      <img src="img/lobo1.jpg" alt="Wolf">
+      <img src="img/lobo1.jpg" alt="Lobo">
       <p>Legenda</p>
     </div>
     <div>
-      <img src="img/lobo3.jpg" alt="Wolf">
+      <img src="img/lobo3.jpg" alt="Lobo">
       <p>Legenda</p>
     </div>
   </section>
@@ -234,6 +234,6 @@
 }
 ```
 
-## I learned Flexbox and Grid from this [video](https://youtu.be/x-4z_u8LcGc): https://youtu.be/x-4z_u8LcGc. 
+## I learned Flexbox and Grid from this [video](https://youtu.be/x-4z_u8LcGc).
 
 # *Thanks for Read*
